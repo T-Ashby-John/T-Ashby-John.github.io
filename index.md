@@ -16,4 +16,4 @@ Below is content I've developed for my William & Mary Courses:
 
 
 A repository of my resume and course files:
-[My_Repository](https://github.com/T-Ashby-John/My_Repository)
+- [My_Repository](https://github.com/T-Ashby-John/My_Repository)
