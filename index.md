@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Tyler Ashby Johnson
+description: My personal GitHub webpage
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
